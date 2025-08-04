@@ -11,3 +11,13 @@ body {
   color: #333;
   line-height: 1.5;
 }
+
+.cv-container {
+  max-width: 800px;
+  margin: 40px auto;
+  background: #fff;
+  padding: 30px 40px;
+  border-radius: 8px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+}
+
