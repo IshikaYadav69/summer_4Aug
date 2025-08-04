@@ -53,3 +53,20 @@ body {
   list-style: disc inside;
   margin-top: 10px;
 }
+
+.cv-section ul li {
+  margin: 6px 0;
+  font-size: 1.05rem;
+}
+
+.cv-footer {
+  text-align: center;
+  color: #777;
+  font-size: 0.9rem;
+  margin-top: 35px;
+}
+
+/* Smooth scrolling if headers are linked from nav menu */
+html {
+  scroll-behavior: smooth;
+}
