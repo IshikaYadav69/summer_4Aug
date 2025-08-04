@@ -65,6 +65,11 @@ body {
   font-size: 0.9rem;
   margin-top: 35px;
 }
+#cultural-skills {
+  background-color: #fdfdfd;
+  padding: 10px 0;
+}
+
 
 /* Smooth scrolling if headers are linked from nav menu */
 html {
