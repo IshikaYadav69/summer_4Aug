@@ -36,3 +36,20 @@ body {
   color: #555;
 }
 
+
+.cv-section {
+  margin-bottom: 25px;
+}
+
+.cv-section h2 {
+  font-size: 1.6rem;
+  color: #006494;
+  margin-bottom: 8px;
+  border-bottom: 2px solid #006494;
+  padding-bottom: 4px;
+}
+
+.cv-section ul {
+  list-style: disc inside;
+  margin-top: 10px;
+}
